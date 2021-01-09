@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+HEROKU: https://desafio-gestor-jorgesifontes.herokuapp.com
 
-Things you may want to cover:
+Made it with Ruby 2.7.0 & Rails 6.1.0
 
-* Ruby version
+Check Gemfile for more details
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+User: desafiovamoscontodo
+Pass: XAHTJEAS23123%23
