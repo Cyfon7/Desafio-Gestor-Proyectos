@@ -1,0 +1,5 @@
+class StatusDefaultValue < ActiveRecord::Migration[6.1]
+  def change
+    change_column(:projects, :status, :string, default: 'Proposal')
+  end
+end
